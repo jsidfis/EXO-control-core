@@ -1,0 +1,25 @@
+train_subjects:
+  - BT01
+  - BT02
+  - BT03
+  - BT06
+  - BT07
+  - BT08
+  - BT09
+  - BT10
+  - BT11
+  - BT13
+val_subjects:
+  - BT12
+  - BT14
+  - BT15
+  - BT16
+  - BT17
+  - BT18
+test_subjects:
+  - BT19
+  - BT20
+  - BT21
+  - BT22
+  - BT23
+  - BT24
